@@ -72,7 +72,7 @@ No install step is needed for the core tool. Download the HTML file and open it 
 ## Project structure
 
 ```
-[filename].html    # the entire tool
+[VoidSearch].html    # the entire tool
 README.md
 ```
 
